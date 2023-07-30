@@ -70,11 +70,7 @@ console.log(`don't sure is there way to go in reverse way
  like how to go from
     hash to token
    
-      so in general hash which transforms to these strings which represent possible token
-  112345
-  122345
-  123345
-  123445
-  123455
+      so in general hash which transforms to   string  which represent possible token
+  
   so which one was token? I think it would be hard to find  
   ${'hypothesis'.toUpperCase()}: random repeat and deduplicate is one-way function`)
